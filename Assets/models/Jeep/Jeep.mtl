@@ -1,0 +1,38 @@
+# 
+# Wavefront material file
+# Converted by the DEEP Exploration  3.5.10.1242
+# Right Hemisphere, LTD
+# http://www.righthemisphere.com/
+# 
+
+newmtl _909dfc5_dds
+Ka 0.698039 0.698039 0.698039
+Kd 0.698039 0.698039 0.698039
+Ks 0.901961 0.901961 0.901961
+illum 2
+Ns 64
+map_Kd 0909DFC5.jpg
+
+newmtl _a0489c8_dds
+Ka 0.698039 0.698039 0.698039
+Kd 0.698039 0.698039 0.698039
+Ks 0.901961 0.901961 0.901961
+illum 2
+Ns 64
+map_Kd 4A0489C8.jpg
+
+newmtl _dee5179_dds
+Ka 0.698039 0.698039 0.698039
+Kd 0.698039 0.698039 0.698039
+Ks 0.901961 0.901961 0.901961
+illum 2
+Ns 64
+map_Kd 6DEE5179.jpg
+
+newmtl _3___Default
+Ka 0.588235 0.588235 0.588235
+Kd 0.588235 0.588235 0.588235
+Ks 0.898039 0.898039 0.898039
+illum 2
+Ns 4
+map_Kd E8D2CD56.jpg
